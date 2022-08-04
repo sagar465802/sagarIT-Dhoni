@@ -168,3 +168,18 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:30.257
 !MESSAGE executing callback sts4.classpath.vIMGiXGb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 13:01:07.154
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 13:01:07.163
+!MESSAGE classpath=65 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 13:01:07.169
+!MESSAGE buffering callback sts4.classpath.vIMGiXGb Dhoni false 65
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 13:01:07.170
+!MESSAGE executing callback sts4.classpath.vIMGiXGb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 13:01:07.225
+!MESSAGE executing callback sts4.classpath.vIMGiXGb SUCCESS [done]
