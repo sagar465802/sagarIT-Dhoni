@@ -108,3 +108,63 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.eclipse.ui 2 2 2022-08-04 12:14:10.587
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:16.123
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:16.125
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1680ae0f[org.springframework.tooling.boot.ls:1.36.0.202206171137(id=920)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:16.129
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:16.171
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:20.734
+!MESSAGE Boot LS startup time from start to initialized: 4592ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.135
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vIMGiXGbisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.139
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.143
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.144
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.145
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.146
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vIMGiXGb => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.156
+!MESSAGE classpath=65 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.160
+!MESSAGE buffering callback sts4.classpath.vIMGiXGb Dhoni false 65
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.161
+!MESSAGE executing callback sts4.classpath.vIMGiXGb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:21.881
+!MESSAGE executing callback sts4.classpath.vIMGiXGb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:30.137
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:30.142
+!MESSAGE classpath=65 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:30.145
+!MESSAGE buffering callback sts4.classpath.vIMGiXGb Dhoni false 65
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:30.146
+!MESSAGE executing callback sts4.classpath.vIMGiXGb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-08-04 12:44:30.257
+!MESSAGE executing callback sts4.classpath.vIMGiXGb SUCCESS [done]
